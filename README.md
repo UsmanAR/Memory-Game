@@ -1,2 +1,2 @@
 # Memory-Game
-A game developed in C to test and sharpen your memory.
+A game developed in C++ to test and sharpen your memory.
